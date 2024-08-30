@@ -5,7 +5,7 @@
 @section('contenido')
 <div id="main" class="wrapper style1">
     <div class="container">
-        <div class="major">
+        <div class="major .">
             <h2>Pago del Personal</h2>
             <p>*Mensaje*</p>
         </div>
